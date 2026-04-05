@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Project Porter \u0026 Runner PWA",
+  "description": "Universal project manager with PWA support: detect stack, auto-install dependencies, run scripts, and export to ZIP/GitHub with public tunneling.",
+  "requestFramePermissions": []
+}
